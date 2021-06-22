@@ -1,0 +1,22 @@
+#orel {
+    margin-top: 120px;
+    margin-left: 120px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+#reshka {
+    margin-left: 120px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
+img {
+    height: 360px;
+    margin-left: 120px;
+}
+#counter {
+    width: 40px;
+    height: 40px;
+    margin-left: 280px;
+    margin-top: 80px;
+    border: 1px solid black;    
+}
